@@ -2,8 +2,8 @@ This is a repository that serves as a Guide for different FFXIV features.
 
 # Guides
 
-[How to Scout Efficiently](https://github.com/TheRedheadedWitch/FinalFantasyGuides/blob/main/Scouting.md)
-[How to Train Efficiently](https://github.com/TheRedheadedWitch/FinalFantasyGuides/blob/main/TrainConducting)
+[How to Scout Efficiently](https://github.com/TheRedheadedWitch/FinalFantasyGuides/blob/main/Scouting.md)<br>
+[How to Train Efficiently](https://github.com/TheRedheadedWitch/FinalFantasyGuides/blob/main/TrainConducting)<br>
 
 # Resources
 
