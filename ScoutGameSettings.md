@@ -6,6 +6,6 @@ If you want to scout fast, you need to increase the amount of monsters that show
 > 2. Click on **Other Settings** which is the second from last button on the left that is 3 dots.
 > 3. 4th option is Display Limits, increase the Character Display Range to Maximum
 
-![image of the settings window](https://raw.githubusercontent.com/TheRedheadedWitch/FinalFantasyGuides/4a5479c2b00f4406d82ad98c951aa29059f9de44/images/SystemConfigurationDisplayRange.png)
+![image of the settings window](https://raw.githubusercontent.com/TheRedheadedWitch/FinalFantasyGuides/main/images/SystemConfigurationDisplayRange.png)
 
 This will allow your game to show the monsters at a far greater distance, which you will see in your screen if you look carefully enough.
