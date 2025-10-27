@@ -2,8 +2,8 @@
 
 If you want to scout fast, you need to increase the amount of monsters that show up on your map. To do this, follow these instructions.
 
-> 1. Press CTRL + K to open up your <b>SYSTEM CONFIGURATION</b> window.
-> 2. Click on <b>OTHER SETTINGS</b> which is the second from last button on the left that is 3 dots.
+> 1. Press CTRL + K to open up your **System Configuration** window.
+> 2. Click on **Other Settings** which is the second from last button on the left that is 3 dots.
 > 3. 4th option is Display Limits, increase the Character Display Range to Maximum
 
 ![image of the settings window](https://raw.githubusercontent.com/TheRedheadedWitch/FinalFantasyGuides/4a5479c2b00f4406d82ad98c951aa29059f9de44/images/SystemConfigurationDisplayRange.png)
