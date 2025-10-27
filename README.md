@@ -4,6 +4,6 @@ This is a repository that serves as a Guide for different FFXIV features.
 
 [How to Scout Efficiently](https://github.com/TheRedheadedWitch/FinalFantasyGuides/blob/main/Scouting.md)
 
-#Resources
+# Resources
 
 [Lifestream Custom Alias](https://github.com/TheRedheadedWitch/FinalFantasyGuides/blob/main/LifestreamCustomAlias.md)
